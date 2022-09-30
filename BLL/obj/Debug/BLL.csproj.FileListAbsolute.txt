@@ -1,0 +1,72 @@
+D:\Class Morning\Project\SMS\BLL\bin\Debug\BLL.dll
+D:\Class Morning\Project\SMS\BLL\bin\Debug\BLL.pdb
+D:\Class Morning\Project\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Class Morning\Project\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Class Morning\Project\SMS\BLL\obj\Debug\BLL.dll
+D:\Class Morning\Project\SMS\BLL\obj\Debug\BLL.pdb
+D:\Class Morning\Project\SMS\BLL\bin\Debug\DAL.dll
+D:\Class Morning\Project\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Class Morning\Project\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Class Morning\Project\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Class Morning\Project\SMS\BLL\bin\Debug\DAL.pdb
+D:\Class Morning\Project\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+J:\DOT_NET_PRACTICE\SMS\BLL\bin\Debug\BLL.dll
+J:\DOT_NET_PRACTICE\SMS\BLL\bin\Debug\BLL.pdb
+J:\DOT_NET_PRACTICE\SMS\BLL\bin\Debug\DAL.dll
+J:\DOT_NET_PRACTICE\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+J:\DOT_NET_PRACTICE\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+J:\DOT_NET_PRACTICE\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+J:\DOT_NET_PRACTICE\SMS\BLL\bin\Debug\DAL.pdb
+J:\DOT_NET_PRACTICE\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+J:\DOT_NET_PRACTICE\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+J:\DOT_NET_PRACTICE\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+J:\DOT_NET_PRACTICE\SMS\BLL\obj\Debug\BLL.dll
+J:\DOT_NET_PRACTICE\SMS\BLL\obj\Debug\BLL.pdb
+C:\Users\Dot Net\Desktop\SMS\BLL\bin\Debug\BLL.dll
+C:\Users\Dot Net\Desktop\SMS\BLL\bin\Debug\BLL.pdb
+C:\Users\Dot Net\Desktop\SMS\BLL\bin\Debug\DAL.dll
+C:\Users\Dot Net\Desktop\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Dot Net\Desktop\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Dot Net\Desktop\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Dot Net\Desktop\SMS\BLL\bin\Debug\DAL.pdb
+C:\Users\Dot Net\Desktop\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Dot Net\Desktop\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Dot Net\Desktop\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Dot Net\Desktop\SMS\BLL\obj\Debug\BLL.dll
+C:\Users\Dot Net\Desktop\SMS\BLL\obj\Debug\BLL.pdb
+D:\Morning\SMS\BLL\bin\Debug\BLL.dll
+D:\Morning\SMS\BLL\bin\Debug\BLL.pdb
+D:\Morning\SMS\BLL\bin\Debug\DAL.dll
+D:\Morning\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Morning\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Morning\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Morning\SMS\BLL\bin\Debug\DAL.pdb
+D:\Morning\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Morning\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Morning\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Morning\SMS\BLL\obj\Debug\BLL.dll
+D:\Morning\SMS\BLL\obj\Debug\BLL.pdb
+H:\DOT_NET_PRACTICE\SMS\BLL\bin\Debug\BLL.dll
+H:\DOT_NET_PRACTICE\SMS\BLL\bin\Debug\BLL.pdb
+H:\DOT_NET_PRACTICE\SMS\BLL\bin\Debug\DAL.dll
+H:\DOT_NET_PRACTICE\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+H:\DOT_NET_PRACTICE\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+H:\DOT_NET_PRACTICE\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+H:\DOT_NET_PRACTICE\SMS\BLL\bin\Debug\DAL.pdb
+H:\DOT_NET_PRACTICE\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+H:\DOT_NET_PRACTICE\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\DOT_NET_PRACTICE\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+H:\DOT_NET_PRACTICE\SMS\BLL\obj\Debug\BLL.dll
+H:\DOT_NET_PRACTICE\SMS\BLL\obj\Debug\BLL.pdb
+D:\Class Evening\SMS_B2\SMS\BLL\bin\Debug\BLL.dll
+D:\Class Evening\SMS_B2\SMS\BLL\bin\Debug\BLL.pdb
+D:\Class Evening\SMS_B2\SMS\BLL\bin\Debug\DAL.dll
+D:\Class Evening\SMS_B2\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Class Evening\SMS_B2\SMS\BLL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Class Evening\SMS_B2\SMS\BLL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Class Evening\SMS_B2\SMS\BLL\bin\Debug\DAL.pdb
+D:\Class Evening\SMS_B2\SMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Class Evening\SMS_B2\SMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Class Evening\SMS_B2\SMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Class Evening\SMS_B2\SMS\BLL\obj\Debug\BLL.dll
+D:\Class Evening\SMS_B2\SMS\BLL\obj\Debug\BLL.pdb

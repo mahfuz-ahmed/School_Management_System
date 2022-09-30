@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolManagementSystem", "SchoolManagementSystem.csproj", "{B834137C-C948-4FD2-B278-B6578236903F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{CD396660-DA4A-4FFE-907A-7E30092DFDAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\BLL\BLL.csproj", "{59C8F432-1921-4F26-88DA-760C8E2CB427}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B834137C-C948-4FD2-B278-B6578236903F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B834137C-C948-4FD2-B278-B6578236903F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B834137C-C948-4FD2-B278-B6578236903F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B834137C-C948-4FD2-B278-B6578236903F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD396660-DA4A-4FFE-907A-7E30092DFDAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD396660-DA4A-4FFE-907A-7E30092DFDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD396660-DA4A-4FFE-907A-7E30092DFDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD396660-DA4A-4FFE-907A-7E30092DFDAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59C8F432-1921-4F26-88DA-760C8E2CB427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C8F432-1921-4F26-88DA-760C8E2CB427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C8F432-1921-4F26-88DA-760C8E2CB427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C8F432-1921-4F26-88DA-760C8E2CB427}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BAA8EAB-AF58-4CE5-8E32-DBC56BCF37F5}
+	EndGlobalSection
+EndGlobal

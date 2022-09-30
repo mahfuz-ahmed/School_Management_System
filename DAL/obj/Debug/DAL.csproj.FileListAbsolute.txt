@@ -1,0 +1,59 @@
+D:\Class Morning\Project\SMS\DAL\bin\Debug\DAL.dll
+D:\Class Morning\Project\SMS\DAL\bin\Debug\DAL.pdb
+D:\Class Morning\Project\SMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Class Morning\Project\SMS\DAL\obj\Debug\DAL.dll
+D:\Class Morning\Project\SMS\DAL\obj\Debug\DAL.pdb
+D:\Class Morning\Project\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Class Morning\Project\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Class Morning\Project\SMS\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Class Morning\Project\SMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+J:\DOT_NET_PRACTICE\SMS\DAL\bin\Debug\DAL.dll
+J:\DOT_NET_PRACTICE\SMS\DAL\bin\Debug\DAL.pdb
+J:\DOT_NET_PRACTICE\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+J:\DOT_NET_PRACTICE\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+J:\DOT_NET_PRACTICE\SMS\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+J:\DOT_NET_PRACTICE\SMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+J:\DOT_NET_PRACTICE\SMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+J:\DOT_NET_PRACTICE\SMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+J:\DOT_NET_PRACTICE\SMS\DAL\obj\Debug\DAL.dll
+J:\DOT_NET_PRACTICE\SMS\DAL\obj\Debug\DAL.pdb
+C:\Users\Dot Net\Desktop\SMS\DAL\bin\Debug\DAL.dll
+C:\Users\Dot Net\Desktop\SMS\DAL\bin\Debug\DAL.pdb
+C:\Users\Dot Net\Desktop\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Dot Net\Desktop\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Dot Net\Desktop\SMS\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Dot Net\Desktop\SMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Dot Net\Desktop\SMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Dot Net\Desktop\SMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Dot Net\Desktop\SMS\DAL\obj\Debug\DAL.dll
+C:\Users\Dot Net\Desktop\SMS\DAL\obj\Debug\DAL.pdb
+D:\Morning\SMS\DAL\bin\Debug\DAL.dll
+D:\Morning\SMS\DAL\bin\Debug\DAL.pdb
+D:\Morning\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Morning\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Morning\SMS\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Morning\SMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Morning\SMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Morning\SMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Morning\SMS\DAL\obj\Debug\DAL.dll
+D:\Morning\SMS\DAL\obj\Debug\DAL.pdb
+H:\DOT_NET_PRACTICE\SMS\DAL\bin\Debug\DAL.dll
+H:\DOT_NET_PRACTICE\SMS\DAL\bin\Debug\DAL.pdb
+H:\DOT_NET_PRACTICE\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+H:\DOT_NET_PRACTICE\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+H:\DOT_NET_PRACTICE\SMS\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+H:\DOT_NET_PRACTICE\SMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+H:\DOT_NET_PRACTICE\SMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+H:\DOT_NET_PRACTICE\SMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+H:\DOT_NET_PRACTICE\SMS\DAL\obj\Debug\DAL.dll
+H:\DOT_NET_PRACTICE\SMS\DAL\obj\Debug\DAL.pdb
+D:\Class Evening\SMS_B2\SMS\DAL\bin\Debug\DAL.dll
+D:\Class Evening\SMS_B2\SMS\DAL\bin\Debug\DAL.pdb
+D:\Class Evening\SMS_B2\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Class Evening\SMS_B2\SMS\DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Class Evening\SMS_B2\SMS\DAL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Class Evening\SMS_B2\SMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Class Evening\SMS_B2\SMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Class Evening\SMS_B2\SMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Class Evening\SMS_B2\SMS\DAL\obj\Debug\DAL.dll
+D:\Class Evening\SMS_B2\SMS\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,10 @@
+D:\Class Evening\SMS_B2\SMS\DAL\bin\Release\DAL.dll
+D:\Class Evening\SMS_B2\SMS\DAL\bin\Release\DAL.pdb
+D:\Class Evening\SMS_B2\SMS\DAL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Class Evening\SMS_B2\SMS\DAL\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Class Evening\SMS_B2\SMS\DAL\bin\Release\Microsoft.Practices.ObjectBuilder2.dll
+D:\Class Evening\SMS_B2\SMS\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+D:\Class Evening\SMS_B2\SMS\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\Class Evening\SMS_B2\SMS\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\Class Evening\SMS_B2\SMS\DAL\obj\Release\DAL.dll
+D:\Class Evening\SMS_B2\SMS\DAL\obj\Release\DAL.pdb
